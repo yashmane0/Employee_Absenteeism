@@ -74,6 +74,16 @@ Employee absenteeism affects productivity, scheduling, and operations in many or
 
 ---
 
+## Images
+![image](https://github.com/user-attachments/assets/bdf57497-0c91-4866-8ff7-781d09797290)
+![image](https://github.com/user-attachments/assets/af22afb1-b6d9-4938-9f5a-ba3dd18c2ba5)
+![image](https://github.com/user-attachments/assets/29ec16aa-f905-466f-a582-23f30697feb1)
+![image](https://github.com/user-attachments/assets/faba3840-96c3-4fac-8d6a-d323b7379568)
+![image](https://github.com/user-attachments/assets/04ef0959-c247-4a73-b6de-2c0fec675dce)
+![image](https://github.com/user-attachments/assets/38c5af42-832b-4d6d-9512-6e70ebc7062d)
+
+---
+
 ## 🔮 Future Scope
 
 - Use real-time attendance or biometric data
@@ -97,9 +107,7 @@ Employee absenteeism affects productivity, scheduling, and operations in many or
 ## 👤 Author
 
 **Yash Mahendra Mane**  
-Vidyalankar Institute of Technology, Dept. of IT  
-Email: maneyash00@gmail.com  
-GitHub: [@yashmane0](https://github.com/yashmane0)  
+Email: maneyash00@gmail.com   
 
 ---
 
